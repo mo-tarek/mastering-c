@@ -1,4 +1,4 @@
 # Unlock the power of C
-TODO
+I am recording my progress in learning C. 
 ## Table of contents
 - C programming basics (tutorial)
