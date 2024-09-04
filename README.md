@@ -1,2 +1,3 @@
-# mastering-c
-A comprehensive resource for mastering c programming language
+# Unlock the power of C
+TODO
+## Table of contents
