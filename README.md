@@ -6,3 +6,4 @@ I am recording my progress in learning C.
 - C Project-based tutorials
 - Build your own x
 - Awesome C
+- Alogrithms in C
