@@ -22,7 +22,7 @@ This notes is incremental. That's,  I will add all my notes from all courses her
 - Libraries
 
 ## Command line arguments 
-when your program deal with some external inputs from the command line to operate on
+When your program deal with some external inputs from the command line to operate on
 
 main function signature:
 ```
