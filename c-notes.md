@@ -1,5 +1,5 @@
 # C programming notes
-This notes is incremental. That's,  I will add all me notes from all courses here.
+This notes is incremental. That's,  I will add all my notes from all courses here.
 
 - Introduction
 - History
@@ -20,3 +20,11 @@ This notes is incremental. That's,  I will add all me notes from all courses her
 - Function pointers 
 - Makefiles (and a little on multi-file projects)
 - Libraries
+
+## Command line arguments 
+when your program deal with some external inputs from the command line to operate on
+
+main function signature:
+```
+int main(int argc, char **argv);
+```
