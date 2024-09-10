@@ -1,7 +1,7 @@
 # Unlock the power of C
 I am recording my progress in learning C. 
 ## Table of contents
-- C programming basics (tutorial)
+- Build your own Git
 ### Resources
 - C Project-based tutorials
 - Build your own x
