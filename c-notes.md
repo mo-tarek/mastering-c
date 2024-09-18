@@ -1,6 +1,11 @@
 # C programming notes
 This notes is incremental. That's,  I will add all my notes from all courses here.
 
+--- 
+### My Approach
+- Learn the core language
+- Learn the standard library
+---
 - Introduction
 - History
 - Hello, World
