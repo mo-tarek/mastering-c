@@ -4,7 +4,7 @@ I am recording my progress in learning C.
 ### **Basic projects**
 ---
   - [Hello World](https://github.com/mo-tarek/mastering-c/blob/main/src/hello.c)
-  - Simple Calculator
+  - [Simple Calculator](https://github.com/mo-tarek/mastering-c/blob/main/src/simple_calculator.c)
   - Temperature Converter
   - Basic File I/O
   - Number Guessing Game
