@@ -3,7 +3,7 @@ I am recording my progress in learning C.
 ## Table of contents
 ### **Basic projects**
 ---
-  - Hello World
+  - [Hello World](https://github.com/mo-tarek/mastering-c/blob/main/src/hello.c)
   - Simple Calculator
   - Temperature Converter
   - Basic File I/O
