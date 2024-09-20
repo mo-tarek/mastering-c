@@ -14,7 +14,7 @@ I am recording my progress in learning C.
   - Palindrome Checker
   - Basic Encryption/Decryption
 ### Resources
-- C Project-based tutorials
-- Build your own x
-- Awesome C
-- Alogrithms in C
+- [C Project-based tutorials](https://github.com/nCally/Project-Based-Tutorials-in-C)
+- [Build your own x](https://github.com/codecrafters-io/build-your-own-x)
+- [Awesome C](https://github.com/oz123/awesome-c)
+- [Alogrithms in C](https://github.com/TheAlgorithms/C)
