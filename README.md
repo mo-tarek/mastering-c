@@ -9,7 +9,7 @@ I am recording my progress in learning C.
   - [Basic File I/O](https://github.com/mo-tarek/mastering-c/blob/main/src/basic-file-io.c)
   - [Number Guessing Game](https://github.com/mo-tarek/mastering-c/blob/main/src/num-guess-game.c)
   - [Factorial Calculator](https://github.com/mo-tarek/mastering-c/blob/main/src/factorial.c)
-  - Fibonacci Sequence Generator
+  - [Fibonacci Sequence Generator](https://github.com/mo-tarek/mastering-c/blob/main/src/fibonacci-generator.c)
   - Basic Alarm Clock
   - Palindrome Checker
   - Basic Encryption/Decryption
