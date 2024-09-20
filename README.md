@@ -5,7 +5,7 @@ I am recording my progress in learning C.
 ---
   - [Hello World](https://github.com/mo-tarek/mastering-c/blob/main/src/hello.c)
   - [Simple Calculator](https://github.com/mo-tarek/mastering-c/blob/main/src/simple_calculator.c)
-  - Temperature Converter
+  - [Temperature Converter](https://github.com/mo-tarek/mastering-c/blob/main/src/temperature_converter.c)
   - Basic File I/O
   - Number Guessing Game
   - Factorial Calculator
