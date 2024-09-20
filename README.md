@@ -8,7 +8,7 @@ I am recording my progress in learning C.
   - [Temperature Converter](https://github.com/mo-tarek/mastering-c/blob/main/src/temperature_converter.c)
   - [Basic File I/O](https://github.com/mo-tarek/mastering-c/blob/main/src/basic-file-io.c)
   - [Number Guessing Game](https://github.com/mo-tarek/mastering-c/blob/main/src/num-guess-game.c)
-  - Factorial Calculator
+  - [Factorial Calculator](https://github.com/mo-tarek/mastering-c/blob/main/src/factorial.c)
   - Fibonacci Sequence Generator
   - Basic Alarm Clock
   - Palindrome Checker
