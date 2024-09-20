@@ -6,7 +6,7 @@ I am recording my progress in learning C.
   - [Hello World](https://github.com/mo-tarek/mastering-c/blob/main/src/hello.c)
   - [Simple Calculator](https://github.com/mo-tarek/mastering-c/blob/main/src/simple_calculator.c)
   - [Temperature Converter](https://github.com/mo-tarek/mastering-c/blob/main/src/temperature_converter.c)
-  - Basic File I/O
+  - [Basic File I/O](https://github.com/mo-tarek/mastering-c/blob/main/src/basic-file-io.c)
   - Number Guessing Game
   - Factorial Calculator
   - Fibonacci Sequence Generator
