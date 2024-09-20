@@ -53,24 +53,18 @@ int main(void){
 		case 1:
 			celsiusToFahrenheit(temp);
 			break;
-
 		case 2:
 			fahrenheitToCelsius(temp);
 			break;
-
 		case 3:
 			celsiusToKelvin(temp);
 			break;
-
-
 		case 4:
 			kelvinToCelsius(temp);
 			break;
-
 		case 5:
 			fahrenheitToKelvin(temp);
 			break;
-
 		case 6:
 			kelvinToFahrenheit(temp);
 			break;
