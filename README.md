@@ -10,9 +10,9 @@ I am recording my progress in learning C.
   - [Number Guessing Game](https://github.com/mo-tarek/mastering-c/blob/main/src/num-guess-game.c)
   - [Factorial Calculator](https://github.com/mo-tarek/mastering-c/blob/main/src/factorial.c)
   - [Fibonacci Sequence Generator](https://github.com/mo-tarek/mastering-c/blob/main/src/fibonacci-generator.c)
-  - Basic Alarm Clock
-  - Palindrome Checker
-  - Basic Encryption/Decryption
+  - [Basic Alarm Clock](https://github.com/mo-tarek/mastering-c/blob/main/src/basic-alarm-clock.c)
+  - [Palindrome Checker](https://github.com/mo-tarek/mastering-c/blob/main/src/palindrome-checker.c)
+  - [Basic Encryption/Decryption](https://github.com/mo-tarek/mastering-c/blob/main/src/encryption-decryption.c)
 ### Resources
 - [C Project-based tutorials](https://github.com/nCally/Project-Based-Tutorials-in-C)
 - [Build your own x](https://github.com/codecrafters-io/build-your-own-x)
