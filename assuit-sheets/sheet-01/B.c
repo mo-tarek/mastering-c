@@ -12,6 +12,7 @@ int main(void){
 	// Read the input values
 	scanf("%d %lld %c %f %lf", &intValue, &longValue, &charValue, &floatValue, &doubleValue);
 
+	// Note: I don't really care what the output format
 	printf("Integer: %d\n", intValue);
 	printf("Long Long: %lld\n", longValue);
 	printf("Character: %c\n", charValue);
