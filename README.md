@@ -13,6 +13,18 @@ I am recording my progress in learning C.
   - [Basic Alarm Clock](https://github.com/mo-tarek/mastering-c/blob/main/src/basic-alarm-clock.c)
   - [Palindrome Checker](https://github.com/mo-tarek/mastering-c/blob/main/src/palindrome-checker.c)
   - [Basic Encryption/Decryption](https://github.com/mo-tarek/mastering-c/blob/main/src/encryption-decryption.c)
+### **Data Structures**
+---
+  - Linked List
+  - Stack
+  - Queue
+  - BST
+  - Hash Table
+  - Graph Representation
+  - Circular Buffer
+  - Priority Queue
+  - Doubly Linked List
+  - AVL Tree
 ### Resources
 - [C Project-based tutorials](https://github.com/nCally/Project-Based-Tutorials-in-C)
 - [Build your own x](https://github.com/codecrafters-io/build-your-own-x)
