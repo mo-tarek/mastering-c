@@ -26,6 +26,7 @@ I am recording my progress in learning C.
   - Doubly Linked List
   - AVL Tree
 ### Resources
+- [Beej's guide to C programming](https://beej.us/guide/bgc/html/split/) `in-progress`
 - [C Project-based tutorials](https://github.com/nCally/Project-Based-Tutorials-in-C)
 - [Build your own x](https://github.com/codecrafters-io/build-your-own-x)
 - [Awesome C](https://github.com/oz123/awesome-c)
