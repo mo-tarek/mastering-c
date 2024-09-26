@@ -15,10 +15,25 @@ I am recording my progress in learning C.
   - [Basic Encryption/Decryption](https://github.com/mo-tarek/mastering-c/blob/main/src/encryption-decryption.c)
 ### **Data Structures**
 ---
-  - Linked List
+  - Introduction to data structures
+  - Concepts: Encapsulation & ADT
   - Stack
+    - Array-based implementation
+    - Linked-based implementation
   - Queue
-  - BST
+    - Array-based implementation
+    - Linked-based implementation
+    - Abstraction & implementation-related issues
+  - Lists
+    - Array-based implementation
+    - Linked-based implementation
+    - Applications
+      - Recursion
+      - Polish notation
+  - Search and analysis of algorithms
+  - Analysis of binary search algorithm
+  - Tress
+  - Binary Search Trees [BST]
   - Hash Table
   - Graph Representation
   - Circular Buffer
