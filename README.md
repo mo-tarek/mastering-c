@@ -13,6 +13,9 @@ I am recording my progress in learning C.
   - [Basic Alarm Clock](https://github.com/mo-tarek/mastering-c/blob/main/src/basic-alarm-clock.c)
   - [Palindrome Checker](https://github.com/mo-tarek/mastering-c/blob/main/src/palindrome-checker.c)
   - [Basic Encryption/Decryption](https://github.com/mo-tarek/mastering-c/blob/main/src/encryption-decryption.c)
+### **Uncategorized yet**
+---
+  - Text Editor `in-progress`
 ### **Data Structures**
 ---
   - Introduction to data structures
