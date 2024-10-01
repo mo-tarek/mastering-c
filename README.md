@@ -35,14 +35,41 @@ I am recording my progress in learning C.
       - Polish notation
   - Search and analysis of algorithms
   - Analysis of binary search algorithm
-  - Tress
+  - Trees
   - Binary Search Trees [BST]
+  - Binary Heap
+  - AVL Tree
+  - Letter Tree [Trie]
   - Hash Table
-  - Graph Representation
   - Circular Buffer
   - Priority Queue
   - Doubly Linked List
-  - AVL Tree
+
+### **Algorithms**
+- Complexity Analysis
+- Sorting [Insertion, Selection and Count]
+- Searching: Binary Search
+-  Graph Representation
+-  Graph Depth-First Search
+-  Graph Breadth-First Search
+-  Topological Sorting
+-  Dynamic Programming
+    - Pick or Leave Pattern
+    - Enumerating The Choices
+    - Range Patterns
+    - Counting
+    - DP on Grid
+    - Building Output
+    - Tabulation
+    - Marathon
+-  Backtracking
+-  Divide and Conquer
+-  Graph: Shortest Path, Floyed-Warshall
+-  Graph: Shortest Path, Bellman-Ford
+-  Graph: Shortest Path, Dijkstra
+-  Graph: MST, Prim
+-  Graph: MST, Kruksal
+
 ### Resources
 - [Beej's guide to C programming](https://beej.us/guide/bgc/html/split/) `in-progress`
 - [C Project-based tutorials](https://github.com/nCally/Project-Based-Tutorials-in-C)
