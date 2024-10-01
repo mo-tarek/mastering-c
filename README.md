@@ -69,6 +69,8 @@ I am recording my progress in learning C.
 -  Graph: Shortest Path, Dijkstra
 -  Graph: MST, Prim
 -  Graph: MST, Kruksal
+-  Others [TODO-> Organize Later]:
+    - [Mostafa Saad Ibrahim On Quora](https://qr.ae/prjdjG)
 
 ### Resources
 - [Beej's guide to C programming](https://beej.us/guide/bgc/html/split/) `in-progress`
