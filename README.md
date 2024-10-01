@@ -1,6 +1,14 @@
 # Unlock the power of C
 I am recording my progress in learning C. 
 ## Table of contents
+### Learning Approach
+<ol>
+    <li>Learn C</li>
+    <li>C standard library</li>
+    <li>Data Structures in C</li>
+    <li>Implement C Standard library Functions</li>
+</ol>
+
 ### **Basic projects**
 ---
   - [Hello World](https://github.com/mo-tarek/mastering-c/blob/main/src/hello.c)
