@@ -80,6 +80,12 @@ I am recording my progress in learning C.
 -  Others [TODO-> Organize Later]:
     - [Mostafa Saad Ibrahim On Quora](https://qr.ae/prjdjG)
 
+### Problem Solving
+1. NeetCode Roadmap
+2. Assuit sheets
+3. Alazhar Sheets
+4. Dr. Mostafa Saad Sheets
+
 ### Resources
 - [Beej's guide to C programming](https://beej.us/guide/bgc/html/split/) `in-progress`
 - [C Project-based tutorials](https://github.com/nCally/Project-Based-Tutorials-in-C)
