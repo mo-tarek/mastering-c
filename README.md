@@ -26,7 +26,7 @@ I am recording my progress in learning C.
   - Text Editor `in-progress`
 ### **Data Structures**
 ---
-  - Introduction to data structures
+  - [Introduction to data structures](https://github.com/mo-tarek/mastering-c/blob/main/src/intro-to-ds.md)
   - Concepts: Encapsulation & ADT
   - Array
       - [Dynamic Array](https://github.com/mo-tarek/mastering-c/blob/main/src/dynamic-array.c) [aka. Vector in C++]
