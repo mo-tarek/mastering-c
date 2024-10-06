@@ -31,8 +31,8 @@ I am recording my progress in learning C.
   - Array
       - [Dynamic Array](https://github.com/mo-tarek/mastering-c/blob/main/src/dynamic-array.c) [aka. Vector in C++]
       - Multi-dimensional Array
-          - 2D Array
-          - 3D Array
+          - [2D Array](https://github.com/mo-tarek/mastering-c/blob/main/src/2d-array.c)
+          - [3D Array](https://github.com/mo-tarek/mastering-c/blob/main/src/3d-array.c)
   - Stack
     - Array-based implementation
     - Linked-based implementation
