@@ -34,7 +34,7 @@ I am recording my progress in learning C.
           - [2D Array](https://github.com/mo-tarek/mastering-c/blob/main/src/2d-array.c)
           - [3D Array](https://github.com/mo-tarek/mastering-c/blob/main/src/3d-array.c)
   - Stack
-    - Array-based implementation
+    - [Array-based implementation](https://github.com/mo-tarek/mastering-c/blob/main/src/stack-using-array.c)
     - Linked-based implementation
   - Queue
     - Array-based implementation
