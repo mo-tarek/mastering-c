@@ -37,15 +37,17 @@ I am recording my progress in learning C.
     - [Array-based implementation](https://github.com/mo-tarek/mastering-c/blob/main/src/stack-using-array.c)
     - [Linked-based implementation](https://github.com/mo-tarek/mastering-c/blob/main/src/stack-using-linked-list.c)
   - Queue
-    - Array-based implementation
-    - Linked-based implementation
+    - [Array-based implementation](https://github.com/mo-tarek/mastering-c/blob/main/src/queue-using-array.c)
+    - [Linked-based implementation](https://github.com/mo-tarek/mastering-c/blob/main/src/queue-using-linked-list.c)
+    - [Circular Queue](https://github.com/mo-tarek/mastering-c/blob/main/src/circular-queue.c)
+    - Priority Queue
+        - [Priority Queue using Max-Heap](https://github.com/mo-tarek/mastering-c/blob/main/src/priority-queue-using-max_heap.c)
+        - [Priority Queue using Min-Heap](https://github.com/mo-tarek/mastering-c/blob/main/src/priority-queue-using-min_heap.c)
     - Abstraction & implementation-related issues
-  - Lists
-    - Array-based implementation
-    - Linked-based implementation
-    - Applications
-      - Recursion
-      - Polish notation
+  - Linked List
+      - [Singly-linked list](https://github.com/mo-tarek/mastering-c/blob/main/src/singly-linked-list.c)
+      - [Doubly-linked list](https://github.com/mo-tarek/mastering-c/blob/main/src/doubly-linked-list.c)
+      - [Circular-linked list](https://github.com/mo-tarek/mastering-c/blob/main/src/circular-linked-list.c)
   - Search and analysis of algorithms
   - Analysis of binary search algorithm
   - Trees
@@ -53,10 +55,8 @@ I am recording my progress in learning C.
   - Binary Heap
   - AVL Tree
   - Letter Tree [Trie]
-  - Hash Table
+  - [Hash Table](https://github.com/mo-tarek/mastering-c/blob/main/src/hash-table.c)
   - Circular Buffer
-  - Priority Queue
-  - Doubly Linked List
 
 ### **Algorithms**
 - Complexity Analysis
