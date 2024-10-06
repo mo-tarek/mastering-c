@@ -106,7 +106,7 @@ I am recording my progress in learning C.
 - `<stdarg.h>`: **Variable Arguments Handling**
 - `<stdatomic.h>`: **Atomic Operations**
 - `<stdbit.h>`: **Bit Manipulation**
-- `<stdint.h>: **Fixed-width Integer Types**
+- `<stdint.h>`: **Fixed-width Integer Types**
 - `<stdnoreturn.h>`: **Noreturn Function Specifier**
 - `<tgmath.h>`: **Type-Generic Math**
 - `<threads.h>`: **Thread Support**
