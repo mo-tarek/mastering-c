@@ -80,6 +80,37 @@ I am recording my progress in learning C.
 -  Others [TODO-> Organize Later]:
     - [Mostafa Saad Ibrahim On Quora](https://qr.ae/prjdjG)
 
+### **The C Standard Library**
+- <stdio.h>
+- <stdlib.h>
+- <limits.h>
+- <math.h>
+- <assert.h>
+- <stdbool.h>
+- <string.h>
+- <stddef.h>
+- <complex.h>
+- <ctype.h>
+- <errno.h>
+- <fenv.h>
+- <float.h>
+- <inttypes.h>
+- <iso646.h>
+- <locale.h>
+- <setjmp.h>
+- <signal.h>
+- <stdalign.h>
+- <stdarg.h>
+- <stdatomic.h>
+- <stdbit.h>
+- <stdint.h>
+- <stdnoreturn.h>
+- <tgmath.h>
+- <threads.h>
+- <time.h>
+- <uchar.h>
+- <wchar.h>
+- <wctype.h>
 ### Problem Solving
 1. NeetCode Roadmap
 2. Assuit sheets
