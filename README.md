@@ -113,7 +113,7 @@ I am recording my progress in learning C.
 - `<time.h>`: **Time and Date Utilities**
 - `<uchar.h>`: **Unicode Character Handling**
 - `<wchar.h>`: **Wide Character Support**
-- <wctype.h>: **Wide Character Type Handling**
+- `<wctype.h>`: **Wide Character Type Handling**
 ### Problem Solving
 1. NeetCode Roadmap
 2. Assuit sheets
