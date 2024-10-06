@@ -84,36 +84,36 @@ I am recording my progress in learning C.
     - [Mostafa Saad Ibrahim On Quora](https://qr.ae/prjdjG)
 
 ### **The C Standard Library**
-- <stdio.h>
-- <stdlib.h>
-- <limits.h>
-- <math.h>
-- <assert.h>
-- <stdbool.h>
-- <string.h>
-- <stddef.h>
-- <complex.h>
-- <ctype.h>
-- <errno.h>
-- <fenv.h>
-- <float.h>
-- <inttypes.h>
-- <iso646.h>
-- <locale.h>
-- <setjmp.h>
-- <signal.h>
-- <stdalign.h>
-- <stdarg.h>
-- <stdatomic.h>
-- <stdbit.h>
-- <stdint.h>
-- <stdnoreturn.h>
-- <tgmath.h>
-- <threads.h>
-- <time.h>
-- <uchar.h>
-- <wchar.h>
-- <wctype.h>
+- `<stdio.h>`: **Standard Input/Output Library**
+- `<stdlib.h>`: **Standard Library Functions**
+- `<limits.h>`: **Limits of Integral Types**
+- `<math.h>`: **Mathematics Library**
+- `<assert.h>`: **Assertions Library**
+- `<stdbool.h>`: **Boolean Type Support**
+- `<string.h>`: **String Handling Library**
+- `<stddef.h>`: **Standard Definitions**
+- `<complex.h>`: **Complex Number Support**
+- `<ctype.h>`: **Character Type Handling**
+- `<errno.h>`: **Error Number Definitions**
+- `<fenv.h>`: **Floating-Point Environment**
+- `<float.h>`: **Floating-Point Limits**
+- `<inttypes.h>`: **Integer Types and Macros**
+- `<iso646.h>`: **ISO 646 Alternatives Representations**
+- `<locale.h>`: **Localization Support**
+- `<setjmp.h>`: **Nolocal Jumps**
+- `<signal.h>`: **Signal Handling**
+- `<stdalign.h>`: **Standard Alignment**
+- `<stdarg.h>`: **Variable Arguments Handling**
+- `<stdatomic.h>`: **Atomic Operations**
+- `<stdbit.h>`: **Bit Manipulation**
+- `<stdint.h>: **Fixed-width Integer Types**
+- `<stdnoreturn.h>`: **Noreturn Function Specifier**
+- `<tgmath.h>`: **Type-Generic Math**
+- `<threads.h>`: **Thread Support**
+- `<time.h>`: **Time and Date Utilities**
+- `<uchar.h>`: **Unicode Character Handling**
+- `<wchar.h>`: **Wide Character Support**
+- <wctype.h>: **Wide Character Type Handling**
 ### Problem Solving
 1. NeetCode Roadmap
 2. Assuit sheets
