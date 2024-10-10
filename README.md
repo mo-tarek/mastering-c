@@ -24,6 +24,14 @@ I am recording my progress in learning C.
 ### **Uncategorized yet**
 ---
   - Text Editor `in-progress`
+
+### **OOP in C**
+1. Encapsulation
+    - Encapsulation can be achieved using structures to group related data and functions.
+2. Inheritance
+    - Inheritance can be simulated by creating a structure that contains another structure.
+3. Polymorphism
+    - Polymorphism can be implemented using function pointers to allow different display functions for different types.
 ### **Data Structures**
 ---
   - [Introduction to data structures](https://github.com/mo-tarek/mastering-c/blob/main/src/intro-to-ds.md)
