@@ -84,7 +84,7 @@ int swapBits(int x, int pos1, int pos2){
         // Toggle the bits at pos1 and pos2
         x ^= (1 << pos1) | (1 << pos2);
     }
-    return x;
+    return x ;
 }
 ```
 7. Other Techniques
