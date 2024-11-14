@@ -3,7 +3,11 @@ I am recording my progress in learning C.
 ## Table of contents
 ### Learning Approach
 1. Learn C
-   - **Book**: The C Programming Language, 2nd Edition (aka: K&R) -> you can  follow along with dr. chuck
+   - **Courses**
+      - C Programming, Ahmed Abdelghafar (Part of Embedded Systems Diploma)
+   - **Books**
+      - The C Programming Language, 2nd Edition (aka: K&R) -> You can  follow along with dr. chuck on FCC 
+      - Understanding and Using C Pointers, Richard Reese
 3. C Standard Library
 4. Data Structures in C
 5. Implement C Standard Library Functions
