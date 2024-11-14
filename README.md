@@ -1,6 +1,9 @@
 # Unlock the power of C
 I am recording my progress in learning C. 
 ## Table of contents
+### My Goal
+- Contribute to Linux Kernel
+- GSOC (Google Summer Of Code)
 ### Learning Approach
 1. Learn C
    - **Courses**
