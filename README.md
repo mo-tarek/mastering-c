@@ -2,12 +2,11 @@
 I am recording my progress in learning C. 
 ## Table of contents
 ### Learning Approach
-<ol>
-    <li>Learn C</li>
-    <li>C standard library</li>
-    <li>Data Structures in C</li>
-    <li>Implement C Standard library Functions</li>
-</ol>
+1. Learn C
+   - **Book**: The C Programming Language, 2nd Edition (aka: K&R) -> you can  follow along with dr. chuck
+3. C Standard Library
+4. Data Structures in C
+5. Implement C Standard Library Functions
 
 ### **Basic projects**
 ---
@@ -31,7 +30,7 @@ I am recording my progress in learning C.
 2. Inheritance
     - Inheritance can be simulated by creating a structure that contains another structure.
 3. Polymorphism
-    - Polymorphism can be implemented using function pointers to allow different display functions for different types.
+    - Polymorphism can be implemented using function pointers.
 ### **Data Structures**
 ---
   - [Introduction to data structures](https://github.com/mo-tarek/mastering-c/blob/main/src/intro-to-ds.md)
