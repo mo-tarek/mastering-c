@@ -26,8 +26,29 @@ I am recording my progress in learning C.
   - [Basic Encryption/Decryption](https://github.com/mo-tarek/mastering-c/blob/main/src/encryption-decryption.c)
 ### **Uncategorized yet**
 ---
+  - Operating System 
   - Text Editor `in-progress`
-
+  - Virtual Machine
+  - Programming Language
+  - Database
+  - SW/HW Stack
+  - Shell
+  - Web Server
+  - Video Player
+  - System Call 
+  - Physics Engine
+  - Game Engine
+  - Regex Engine
+  - Games
+     - Chess Engine
+     - Sudoku Solver
+     - Tic Tac Toe
+     - Handmade Hero
+  - Functions
+     - Malloc
+     - Printf
+- Others (not related):
+   - Framework
 ### **OOP in C**
 1. Encapsulation
     - Encapsulation can be achieved using structures to group related data and functions.
