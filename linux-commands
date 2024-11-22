@@ -14,3 +14,7 @@
 - chdir
 - rm -rf [if director isn't empty]
 - rmdir
+- clear
+- cat 
+- echo 
+- pwd
