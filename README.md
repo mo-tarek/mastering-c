@@ -3,7 +3,10 @@ I am recording my progress in learning C.
 ## Table of contents
 ### Tips for success
 - **Start small**: Begin with simpler projects and gradually increase the complexity. 
-- **Understand the basics**: Ensure you have a good understanding of C programming and the underlying OS concepts before diving into system-level programming.
+- **Understand the basics**
+   - Ensure you have:
+      - A good understanding of C programming
+      - The underlying OS concepts before diving into system-level programming.
 - **Use the manual**: Linux and Unix systems comes with extensive documentations (`man` pages) that are invaluable when dealing with system calls and library functions.
 - **Debugging tools**: Use debugging tools like `gdb` and `valgrind` to help you troubleshoot memory leaks and errors 
 ### My Goal
