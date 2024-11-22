@@ -1,0 +1,16 @@
+## Learning Approach
+  - Linux admin 1
+  - Linux admin 2
+  - Linux admin 3
+## Linux Commands 
+- ls [position or path for director to list]
+- cd [position or path for director to change]
+  - cd (..)
+  - cd (-)
+  - cd (~)
+- cp
+- mv 
+- mkdir 
+- chdir
+- rm -rf [if director isn't empty]
+- rmdir
