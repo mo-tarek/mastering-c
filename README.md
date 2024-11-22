@@ -1,6 +1,11 @@
 # Unlock the power of C
 I am recording my progress in learning C. 
 ## Table of contents
+### Tips for success
+- **Start small**: Begin with simpler projects and gradually increase the complexity. 
+- **Understand the basics**: Ensure you have a good understanding of C programming and the underlying OS concepts before diving into system-level programming.
+- **Use the manual**: Linux and Unix systems comes with extensive documentations (`man` pages) that are invaluable when dealing with system calls and library functions.
+- **Debugging tools**: Use debugging tools like `gdb` and `valgrind` to help you troubleshoot memory leaks and errors 
 ### My Goal
 - Contribute to Linux Kernel
 - GSOC (Google Summer Of Code)
@@ -30,14 +35,91 @@ I am recording my progress in learning C.
   - [Basic Encryption/Decryption](https://github.com/mo-tarek/mastering-c/blob/main/src/encryption-decryption.c)
 ### **Uncategorized yet**
 ---
-  - Operating System 
+#### Introductory Projects
+  - Basic file operations
+  - Command-line arguments parser
+  - Simple memory allocator
+  - Process management (Forking and Exec)
+  -  Simple shell implementation
+  -  Multi-threading with pthreads
+  -  Simple semaphore implementation
+  -  Simple TCP/IP client-server application
+  -  Singal handling and process control
+  -  Implementing a simple memory pool
+  -  File system traversal program
+  -  Create a simple daemon process
+  -  Memory leak detection tool
+  -  Simple file compression utility
+  -  Interactive TO-DO list with file storage
+  - Simple database management system (DBMS)
+  - Simple process monitor
+  - Basic Virtual Memory Simulator
+  - Time measurement tool
+  - Simple web server
+  - Simple DNS resolver
+  - Basic job scheduler
+  - Simple compression/decompression with bitwise operations
+  - File integrity checker
+  - File integrity checker with hashing 
+  - Simple alarm clock (with signals)
+  - Simple logging system
+  - Simple chat application using UDP
+   - Simple chat application using TCP
+  - System resource usage tracker 
+  - Basic shell pipe implementation
+  - Custom log rotator
+  - Simple signal handler with custom signals
+  - Custom file encryption/decryption tool
+  - Simple memory dump tool
+  - Simple FTP Client
+  - Custom caching system
+  - File watcher program
+  - Simple Thread Pool
+  - Simple firewall (packet filtering)
+  - Shell-like script interpreter
+  - Atomic operations on shared memory
+  - Simple port scanner
+  - Disk usage analyzer
+  - Log file analysis tool
+  - Packet sniffer
+  - Simple task scheduler (cron-like)
+  - Basic HTTP client
+  - Custom alarm system with custom notifications
+  - Simple process tracer
+  - File system fragmentation simulator
+  - Simple file backup utility
+  - Basic multi-level caching system
+  - Real-time clock in C
+  - Terminal text formatter
+  - HTTP request logger
+  - System event logger
+  - File versioning system
+  - Real-time system performance dashboard
+  - Task parallelizer
+  - Simple DB query executer
+  - Memory pool allocator
+  - Simple DNS server
+  - Rate limiting server
+  - Simple file hashing and comparison tool
+  - System call wrapper library
+  - Custom file permission utility
+  - System resource usage logger
+  - Real-time stock price fetcher
+  - Custom task manager
+  - Time sync client
+  - Simple file encryption with XOR
+  - Disk Space cleaner
+  - Simple ssh client
+  - Parallel file copying tool
+  - Simple web scrapper
+  - Network packet analyzer
+  - Simple keylogger
+  -  Operating System 
   - Text Editor `in-progress`
-  - Virtual Machine
+  - Simple virtual machine 
   - Programming Language
   - Database
   - SW/HW Stack
-  - Shell
-  - Web Server
   - Video Player
   - System Call 
   - Physics Engine
