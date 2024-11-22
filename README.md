@@ -7,10 +7,10 @@ I am recording my progress in learning C.
 ### Learning Approach
 1. Learn C
    - **Courses**
-      - CS50x -> From week 0 to week 5
+      - CS50x &rarr; From week 0 to week 5
       - C Programming, Ahmed Abdelghafar (Part of Embedded Systems Diploma)
    - **Books**
-      - The C Programming Language, 2nd Edition (aka: K&R) -> You can  follow along with dr. chuck on FCC 
+      - The C Programming Language, 2nd Edition (aka: K&R) &rarr; You can  follow along with dr. chuck on FCC 
       - Understanding and Using C Pointers, Richard Reese
 3. C Standard Library
 4. Data Structures in C
