@@ -18,3 +18,15 @@
 - cat 
 - echo 
 - pwd
+- touch 
+- file 
+- less 
+- find 
+- grep 
+- help
+- man 
+- whatis
+- whoami 
+- alias 
+- history 
+- exit, logout
